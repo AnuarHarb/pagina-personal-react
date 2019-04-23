@@ -1,0 +1,19 @@
+{
+  "name": "pagina-personal",
+  "version": "1.0.0",
+  "description": "Mi propia página personal",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Anuar Harb",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1"
+  }
+}
